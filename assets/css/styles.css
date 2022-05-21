@@ -1,0 +1,156 @@
+    * {
+        margin: 0;
+        padding: 0%;
+        box-sizing: border-box;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: black;
+        color: #fff;
+    }
+    
+    h1,
+    h2 {
+        text-align: center;
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    
+    .img_style {
+        text-align: center;
+        margin-left: 250px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    
+    .init_paragraphe {
+        text-align: center;
+        font-size: 20px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    
+    .paragraphe_choice {
+        text-align: center;
+        color: red;
+        font-size: 20px;
+        margin-top: 15px;
+    }
+    
+    li {
+        margin-left: 30px;
+        padding-top: 10px;
+        font-size: 20px;
+        text-decoration: underline;
+    }
+    
+    .div_btn {
+        margin-left: 650px;
+        margin-top: 5px;
+        padding-bottom: 30px;
+    }
+    
+    .btn_choice {
+        border: 2px solid #fff;
+        border-radius: 15px;
+        width: 150px;
+        height: 40px;
+        margin-top: 20px;
+        margin-left: 20px;
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        -ms-border-radius: 15px;
+        -o-border-radius: 15px;
+    }
+    
+    .link_style {
+        text-decoration: none;
+        color: red;
+        font-size: 20px;
+    }
+    
+    .body_page7 {
+        background-color: black;
+    }
+    
+    .h3_page7 {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 30px;
+    }
+    
+    .h4_page7 {
+        text-align: center;
+        margin-top: 20px;
+        color: red;
+        font-size: 20px;
+    }
+    
+    .paragraphe_page7 {
+        margin-top: 20px;
+        font-size: 18px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    
+    .h5_page7 {
+        font-size: 18px;
+        text-decoration: underline;
+        margin-left: 15px;
+    }
+    
+    .btn_page7 {
+        margin-top: 15px;
+        margin-left: 400px;
+        border: 2px solid;
+        width: 150px;
+        height: 40px;
+        border-radius: 15px;
+    }
+    
+    .linkstyle_page7 {
+        text-decoration: none;
+        color: red;
+    }
+    
+    .body_page8 {
+        background-color: black;
+    }
+    
+    .h3_page8 {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 30px;
+    }
+    
+    .h4_page8 {
+        text-align: center;
+        margin-top: 20px;
+        color: red;
+        font-size: 20px;
+    }
+    
+    .paragraphe_page8 {
+        margin-top: 20px;
+        font-size: 18px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    
+    .h5_page8 {
+        font-size: 18px;
+        text-decoration: underline;
+        margin-left: 15px;
+    }
+    
+    .btn_page8 {
+        margin-top: 15px;
+        margin-left: 400px;
+        border: 2px solid;
+        width: 150px;
+        height: 40px;
+        border-radius: 15px;
+    }
+    
+    .linkstyle_page8 {
+        text-decoration: none;
+        color: red;
+    }
